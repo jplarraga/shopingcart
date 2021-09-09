@@ -1,4 +1,4 @@
-# shopingcart
+# shoppingcart
 
 <h2>Description</h2>
 
